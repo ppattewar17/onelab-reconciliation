@@ -1,0 +1,1045 @@
+{
+  "timing": [
+    {
+      "txn_id": "timing_001",
+      "platform_amount": "125.456",
+      "bank_amount": "125.46",
+      "settled_at": "2026-02-01T08:30:00Z"
+    },
+    {
+      "txn_id": "timing_002",
+      "platform_amount": "98.740",
+      "bank_amount": "98.74",
+      "settled_at": "2026-02-02T09:15:00Z"
+    },
+    {
+      "txn_id": "timing_003",
+      "platform_amount": "210.125",
+      "bank_amount": "210.13",
+      "settled_at": "2026-02-02T17:45:00Z"
+    }
+  ],
+  "rounding": [
+    {
+      "txn_id": "txn_0002",
+      "platform_amount": "511.283",
+      "bank_amount": "511.28"
+    },
+    {
+      "txn_id": "txn_0003",
+      "platform_amount": "1395.943",
+      "bank_amount": "1395.94"
+    },
+    {
+      "txn_id": "txn_0004",
+      "platform_amount": "75.033",
+      "bank_amount": "75.03"
+    },
+    {
+      "txn_id": "txn_0005",
+      "platform_amount": "1044.773",
+      "bank_amount": "1044.77"
+    },
+    {
+      "txn_id": "txn_0006",
+      "platform_amount": "1476.833",
+      "bank_amount": "1476.83"
+    },
+    {
+      "txn_id": "txn_0007",
+      "platform_amount": "1216.353",
+      "bank_amount": "1216.35"
+    },
+    {
+      "txn_id": "txn_0008",
+      "platform_amount": "875.433",
+      "bank_amount": "875.43"
+    },
+    {
+      "txn_id": "txn_0009",
+      "platform_amount": "699.133",
+      "bank_amount": "699.13"
+    },
+    {
+      "txn_id": "txn_0010",
+      "platform_amount": "745.443",
+      "bank_amount": "745.44"
+    },
+    {
+      "txn_id": "txn_0011",
+      "platform_amount": "950.683",
+      "bank_amount": "950.68"
+    },
+    {
+      "txn_id": "txn_0012",
+      "platform_amount": "1140.373",
+      "bank_amount": "1140.37"
+    },
+    {
+      "txn_id": "txn_0014",
+      "platform_amount": "602.103",
+      "bank_amount": "602.10"
+    },
+    {
+      "txn_id": "txn_0015",
+      "platform_amount": "579.583",
+      "bank_amount": "579.58"
+    },
+    {
+      "txn_id": "txn_0016",
+      "platform_amount": "737.263",
+      "bank_amount": "737.26"
+    },
+    {
+      "txn_id": "txn_0017",
+      "platform_amount": "1409.823",
+      "bank_amount": "1409.82"
+    },
+    {
+      "txn_id": "txn_0018",
+      "platform_amount": "360.683",
+      "bank_amount": "360.68"
+    },
+    {
+      "txn_id": "txn_0019",
+      "platform_amount": "787.343",
+      "bank_amount": "787.34"
+    },
+    {
+      "txn_id": "txn_0020",
+      "platform_amount": "124.293",
+      "bank_amount": "124.29"
+    },
+    {
+      "txn_id": "txn_0021",
+      "platform_amount": "558.083",
+      "bank_amount": "558.08"
+    },
+    {
+      "txn_id": "txn_0022",
+      "platform_amount": "1480.403",
+      "bank_amount": "1480.40"
+    },
+    {
+      "txn_id": "txn_0023",
+      "platform_amount": "820.823",
+      "bank_amount": "820.82"
+    },
+    {
+      "txn_id": "txn_0024",
+      "platform_amount": "295.313",
+      "bank_amount": "295.31"
+    },
+    {
+      "txn_id": "txn_0026",
+      "platform_amount": "293.653",
+      "bank_amount": "293.65"
+    },
+    {
+      "txn_id": "txn_0027",
+      "platform_amount": "106.143",
+      "bank_amount": "106.14"
+    },
+    {
+      "txn_id": "txn_0028",
+      "platform_amount": "1403.543",
+      "bank_amount": "1403.54"
+    },
+    {
+      "txn_id": "txn_0029",
+      "platform_amount": "1230.593",
+      "bank_amount": "1230.59"
+    },
+    {
+      "txn_id": "txn_0030",
+      "platform_amount": "33.873",
+      "bank_amount": "33.87"
+    },
+    {
+      "txn_id": "txn_0031",
+      "platform_amount": "1109.963",
+      "bank_amount": "1109.96"
+    },
+    {
+      "txn_id": "txn_0032",
+      "platform_amount": "238.373",
+      "bank_amount": "238.37"
+    },
+    {
+      "txn_id": "txn_0033",
+      "platform_amount": "16.923",
+      "bank_amount": "16.92"
+    },
+    {
+      "txn_id": "txn_0034",
+      "platform_amount": "375.643",
+      "bank_amount": "375.64"
+    },
+    {
+      "txn_id": "txn_0035",
+      "platform_amount": "1318.643",
+      "bank_amount": "1318.64"
+    },
+    {
+      "txn_id": "txn_0036",
+      "platform_amount": "340.693",
+      "bank_amount": "340.69"
+    },
+    {
+      "txn_id": "txn_0038",
+      "platform_amount": "639.303",
+      "bank_amount": "639.30"
+    },
+    {
+      "txn_id": "txn_0039",
+      "platform_amount": "1171.103",
+      "bank_amount": "1171.10"
+    },
+    {
+      "txn_id": "txn_0040",
+      "platform_amount": "151.973",
+      "bank_amount": "151.97"
+    },
+    {
+      "txn_id": "txn_0041",
+      "platform_amount": "983.703",
+      "bank_amount": "983.70"
+    },
+    {
+      "txn_id": "txn_0042",
+      "platform_amount": "1252.543",
+      "bank_amount": "1252.54"
+    },
+    {
+      "txn_id": "txn_0043",
+      "platform_amount": "1422.253",
+      "bank_amount": "1422.25"
+    },
+    {
+      "txn_id": "txn_0044",
+      "platform_amount": "1340.473",
+      "bank_amount": "1340.47"
+    },
+    {
+      "txn_id": "txn_0045",
+      "platform_amount": "257.313",
+      "bank_amount": "257.31"
+    },
+    {
+      "txn_id": "txn_0046",
+      "platform_amount": "53.753",
+      "bank_amount": "53.75"
+    },
+    {
+      "txn_id": "txn_0047",
+      "platform_amount": "24.093",
+      "bank_amount": "24.09"
+    },
+    {
+      "txn_id": "txn_0048",
+      "platform_amount": "74.423",
+      "bank_amount": "74.42"
+    },
+    {
+      "txn_id": "txn_0050",
+      "platform_amount": "280.923",
+      "bank_amount": "280.92"
+    },
+    {
+      "txn_id": "txn_0051",
+      "platform_amount": "978.523",
+      "bank_amount": "978.52"
+    },
+    {
+      "txn_id": "txn_0052",
+      "platform_amount": "1359.553",
+      "bank_amount": "1359.55"
+    },
+    {
+      "txn_id": "txn_0053",
+      "platform_amount": "966.933",
+      "bank_amount": "966.93"
+    },
+    {
+      "txn_id": "txn_0054",
+      "platform_amount": "1333.123",
+      "bank_amount": "1333.12"
+    },
+    {
+      "txn_id": "txn_0055",
+      "platform_amount": "704.133",
+      "bank_amount": "704.13"
+    },
+    {
+      "txn_id": "txn_0056",
+      "platform_amount": "1108.573",
+      "bank_amount": "1108.57"
+    },
+    {
+      "txn_id": "txn_0057",
+      "platform_amount": "580.593",
+      "bank_amount": "580.59"
+    },
+    {
+      "txn_id": "txn_0058",
+      "platform_amount": "1137.123",
+      "bank_amount": "1137.12"
+    },
+    {
+      "txn_id": "txn_0059",
+      "platform_amount": "40.113",
+      "bank_amount": "40.11"
+    },
+    {
+      "txn_id": "txn_0060",
+      "platform_amount": "1004.613",
+      "bank_amount": "1004.61"
+    },
+    {
+      "txn_id": "txn_0062",
+      "platform_amount": "553.583",
+      "bank_amount": "553.58"
+    },
+    {
+      "txn_id": "txn_0063",
+      "platform_amount": "1148.843",
+      "bank_amount": "1148.84"
+    },
+    {
+      "txn_id": "txn_0064",
+      "platform_amount": "617.273",
+      "bank_amount": "617.27"
+    },
+    {
+      "txn_id": "txn_0065",
+      "platform_amount": "1120.073",
+      "bank_amount": "1120.07"
+    },
+    {
+      "txn_id": "txn_0066",
+      "platform_amount": "1206.613",
+      "bank_amount": "1206.61"
+    },
+    {
+      "txn_id": "txn_0067",
+      "platform_amount": "174.233",
+      "bank_amount": "174.23"
+    },
+    {
+      "txn_id": "txn_0068",
+      "platform_amount": "1392.303",
+      "bank_amount": "1392.30"
+    },
+    {
+      "txn_id": "txn_0069",
+      "platform_amount": "1176.313",
+      "bank_amount": "1176.31"
+    },
+    {
+      "txn_id": "txn_0070",
+      "platform_amount": "868.843",
+      "bank_amount": "868.84"
+    },
+    {
+      "txn_id": "txn_0071",
+      "platform_amount": "1381.913",
+      "bank_amount": "1381.91"
+    },
+    {
+      "txn_id": "txn_0072",
+      "platform_amount": "820.163",
+      "bank_amount": "820.16"
+    },
+    {
+      "txn_id": "txn_0074",
+      "platform_amount": "214.093",
+      "bank_amount": "214.09"
+    },
+    {
+      "txn_id": "txn_0075",
+      "platform_amount": "281.443",
+      "bank_amount": "281.44"
+    },
+    {
+      "txn_id": "txn_0076",
+      "platform_amount": "593.203",
+      "bank_amount": "593.20"
+    },
+    {
+      "txn_id": "txn_0077",
+      "platform_amount": "629.783",
+      "bank_amount": "629.78"
+    },
+    {
+      "txn_id": "txn_0078",
+      "platform_amount": "1145.383",
+      "bank_amount": "1145.38"
+    },
+    {
+      "txn_id": "txn_0079",
+      "platform_amount": "246.133",
+      "bank_amount": "246.13"
+    },
+    {
+      "txn_id": "txn_0080",
+      "platform_amount": "1248.263",
+      "bank_amount": "1248.26"
+    },
+    {
+      "txn_id": "txn_0081",
+      "platform_amount": "1308.333",
+      "bank_amount": "1308.33"
+    },
+    {
+      "txn_id": "txn_0082",
+      "platform_amount": "114.113",
+      "bank_amount": "114.11"
+    },
+    {
+      "txn_id": "txn_0083",
+      "platform_amount": "17.423",
+      "bank_amount": "17.42"
+    },
+    {
+      "txn_id": "txn_0084",
+      "platform_amount": "340.943",
+      "bank_amount": "340.94"
+    },
+    {
+      "txn_id": "txn_0086",
+      "platform_amount": "1425.193",
+      "bank_amount": "1425.19"
+    },
+    {
+      "txn_id": "txn_0087",
+      "platform_amount": "1141.183",
+      "bank_amount": "1141.18"
+    },
+    {
+      "txn_id": "txn_0088",
+      "platform_amount": "641.463",
+      "bank_amount": "641.46"
+    },
+    {
+      "txn_id": "txn_0089",
+      "platform_amount": "1406.313",
+      "bank_amount": "1406.31"
+    },
+    {
+      "txn_id": "txn_0090",
+      "platform_amount": "1156.523",
+      "bank_amount": "1156.52"
+    },
+    {
+      "txn_id": "txn_0091",
+      "platform_amount": "342.223",
+      "bank_amount": "342.22"
+    },
+    {
+      "txn_id": "txn_0092",
+      "platform_amount": "690.523",
+      "bank_amount": "690.52"
+    },
+    {
+      "txn_id": "txn_0093",
+      "platform_amount": "1446.133",
+      "bank_amount": "1446.13"
+    },
+    {
+      "txn_id": "txn_0094",
+      "platform_amount": "973.283",
+      "bank_amount": "973.28"
+    },
+    {
+      "txn_id": "txn_0095",
+      "platform_amount": "635.293",
+      "bank_amount": "635.29"
+    },
+    {
+      "txn_id": "txn_0096",
+      "platform_amount": "405.513",
+      "bank_amount": "405.51"
+    },
+    {
+      "txn_id": "txn_0098",
+      "platform_amount": "1053.513",
+      "bank_amount": "1053.51"
+    },
+    {
+      "txn_id": "txn_0099",
+      "platform_amount": "544.223",
+      "bank_amount": "544.22"
+    },
+    {
+      "txn_id": "txn_0100",
+      "platform_amount": "1231.553",
+      "bank_amount": "1231.55"
+    },
+    {
+      "txn_id": "txn_0101",
+      "platform_amount": "652.553",
+      "bank_amount": "652.55"
+    },
+    {
+      "txn_id": "txn_0102",
+      "platform_amount": "1190.243",
+      "bank_amount": "1190.24"
+    },
+    {
+      "txn_id": "txn_0103",
+      "platform_amount": "903.003",
+      "bank_amount": "903.00"
+    },
+    {
+      "txn_id": "txn_0104",
+      "platform_amount": "153.853",
+      "bank_amount": "153.85"
+    },
+    {
+      "txn_id": "txn_0105",
+      "platform_amount": "1368.153",
+      "bank_amount": "1368.15"
+    },
+    {
+      "txn_id": "txn_0106",
+      "platform_amount": "1375.523",
+      "bank_amount": "1375.52"
+    },
+    {
+      "txn_id": "txn_0107",
+      "platform_amount": "615.703",
+      "bank_amount": "615.70"
+    },
+    {
+      "txn_id": "txn_0108",
+      "platform_amount": "1371.483",
+      "bank_amount": "1371.48"
+    },
+    {
+      "txn_id": "txn_0110",
+      "platform_amount": "440.553",
+      "bank_amount": "440.55"
+    },
+    {
+      "txn_id": "txn_0111",
+      "platform_amount": "915.863",
+      "bank_amount": "915.86"
+    },
+    {
+      "txn_id": "txn_0112",
+      "platform_amount": "357.843",
+      "bank_amount": "357.84"
+    },
+    {
+      "txn_id": "txn_0113",
+      "platform_amount": "1369.813",
+      "bank_amount": "1369.81"
+    },
+    {
+      "txn_id": "txn_0114",
+      "platform_amount": "491.863",
+      "bank_amount": "491.86"
+    },
+    {
+      "txn_id": "txn_0115",
+      "platform_amount": "417.183",
+      "bank_amount": "417.18"
+    },
+    {
+      "txn_id": "txn_0116",
+      "platform_amount": "983.783",
+      "bank_amount": "983.78"
+    },
+    {
+      "txn_id": "txn_0117",
+      "platform_amount": "1299.733",
+      "bank_amount": "1299.73"
+    },
+    {
+      "txn_id": "txn_0118",
+      "platform_amount": "796.633",
+      "bank_amount": "796.63"
+    },
+    {
+      "txn_id": "txn_0119",
+      "platform_amount": "1353.883",
+      "bank_amount": "1353.88"
+    },
+    {
+      "txn_id": "txn_0120",
+      "platform_amount": "880.283",
+      "bank_amount": "880.28"
+    },
+    {
+      "txn_id": "txn_0122",
+      "platform_amount": "283.593",
+      "bank_amount": "283.59"
+    },
+    {
+      "txn_id": "txn_0123",
+      "platform_amount": "1483.643",
+      "bank_amount": "1483.64"
+    },
+    {
+      "txn_id": "txn_0124",
+      "platform_amount": "335.953",
+      "bank_amount": "335.95"
+    },
+    {
+      "txn_id": "txn_0125",
+      "platform_amount": "516.813",
+      "bank_amount": "516.81"
+    },
+    {
+      "txn_id": "txn_0126",
+      "platform_amount": "1293.303",
+      "bank_amount": "1293.30"
+    },
+    {
+      "txn_id": "txn_0127",
+      "platform_amount": "1471.363",
+      "bank_amount": "1471.36"
+    },
+    {
+      "txn_id": "txn_0128",
+      "platform_amount": "664.693",
+      "bank_amount": "664.69"
+    },
+    {
+      "txn_id": "txn_0129",
+      "platform_amount": "483.493",
+      "bank_amount": "483.49"
+    },
+    {
+      "txn_id": "txn_0130",
+      "platform_amount": "141.533",
+      "bank_amount": "141.53"
+    },
+    {
+      "txn_id": "txn_0131",
+      "platform_amount": "964.533",
+      "bank_amount": "964.53"
+    },
+    {
+      "txn_id": "txn_0132",
+      "platform_amount": "870.493",
+      "bank_amount": "870.49"
+    },
+    {
+      "txn_id": "txn_0134",
+      "platform_amount": "808.533",
+      "bank_amount": "808.53"
+    },
+    {
+      "txn_id": "txn_0135",
+      "platform_amount": "568.553",
+      "bank_amount": "568.55"
+    },
+    {
+      "txn_id": "txn_0136",
+      "platform_amount": "698.853",
+      "bank_amount": "698.85"
+    },
+    {
+      "txn_id": "txn_0137",
+      "platform_amount": "967.163",
+      "bank_amount": "967.16"
+    },
+    {
+      "txn_id": "txn_0138",
+      "platform_amount": "1165.843",
+      "bank_amount": "1165.84"
+    },
+    {
+      "txn_id": "txn_0139",
+      "platform_amount": "887.173",
+      "bank_amount": "887.17"
+    },
+    {
+      "txn_id": "txn_0140",
+      "platform_amount": "542.483",
+      "bank_amount": "542.48"
+    },
+    {
+      "txn_id": "txn_0141",
+      "platform_amount": "679.433",
+      "bank_amount": "679.43"
+    },
+    {
+      "txn_id": "txn_0142",
+      "platform_amount": "873.323",
+      "bank_amount": "873.32"
+    },
+    {
+      "txn_id": "txn_0143",
+      "platform_amount": "1114.063",
+      "bank_amount": "1114.06"
+    },
+    {
+      "txn_id": "txn_0144",
+      "platform_amount": "150.993",
+      "bank_amount": "150.99"
+    },
+    {
+      "txn_id": "txn_0146",
+      "platform_amount": "979.853",
+      "bank_amount": "979.85"
+    },
+    {
+      "txn_id": "txn_0147",
+      "platform_amount": "962.893",
+      "bank_amount": "962.89"
+    },
+    {
+      "txn_id": "txn_0148",
+      "platform_amount": "1250.773",
+      "bank_amount": "1250.77"
+    },
+    {
+      "txn_id": "txn_0149",
+      "platform_amount": "231.743",
+      "bank_amount": "231.74"
+    },
+    {
+      "txn_id": "txn_0150",
+      "platform_amount": "1397.483",
+      "bank_amount": "1397.48"
+    },
+    {
+      "txn_id": "txn_0151",
+      "platform_amount": "165.753",
+      "bank_amount": "165.75"
+    },
+    {
+      "txn_id": "txn_0152",
+      "platform_amount": "627.873",
+      "bank_amount": "627.87"
+    },
+    {
+      "txn_id": "txn_0153",
+      "platform_amount": "94.443",
+      "bank_amount": "94.44"
+    },
+    {
+      "txn_id": "txn_0154",
+      "platform_amount": "151.643",
+      "bank_amount": "151.64"
+    },
+    {
+      "txn_id": "txn_0155",
+      "platform_amount": "870.623",
+      "bank_amount": "870.62"
+    },
+    {
+      "txn_id": "txn_0156",
+      "platform_amount": "1311.583",
+      "bank_amount": "1311.58"
+    },
+    {
+      "txn_id": "txn_0158",
+      "platform_amount": "1112.993",
+      "bank_amount": "1112.99"
+    },
+    {
+      "txn_id": "txn_0159",
+      "platform_amount": "1223.343",
+      "bank_amount": "1223.34"
+    },
+    {
+      "txn_id": "txn_0160",
+      "platform_amount": "187.353",
+      "bank_amount": "187.35"
+    },
+    {
+      "txn_id": "txn_0161",
+      "platform_amount": "961.723",
+      "bank_amount": "961.72"
+    },
+    {
+      "txn_id": "txn_0162",
+      "platform_amount": "1022.413",
+      "bank_amount": "1022.41"
+    },
+    {
+      "txn_id": "txn_0163",
+      "platform_amount": "736.333",
+      "bank_amount": "736.33"
+    },
+    {
+      "txn_id": "txn_0164",
+      "platform_amount": "1230.893",
+      "bank_amount": "1230.89"
+    },
+    {
+      "txn_id": "txn_0165",
+      "platform_amount": "1068.243",
+      "bank_amount": "1068.24"
+    },
+    {
+      "txn_id": "txn_0166",
+      "platform_amount": "842.623",
+      "bank_amount": "842.62"
+    },
+    {
+      "txn_id": "txn_0167",
+      "platform_amount": "1332.913",
+      "bank_amount": "1332.91"
+    },
+    {
+      "txn_id": "txn_0168",
+      "platform_amount": "45.113",
+      "bank_amount": "45.11"
+    },
+    {
+      "txn_id": "txn_0170",
+      "platform_amount": "765.603",
+      "bank_amount": "765.60"
+    },
+    {
+      "txn_id": "txn_0171",
+      "platform_amount": "1137.423",
+      "bank_amount": "1137.42"
+    },
+    {
+      "txn_id": "txn_0172",
+      "platform_amount": "564.393",
+      "bank_amount": "564.39"
+    },
+    {
+      "txn_id": "txn_0173",
+      "platform_amount": "1487.243",
+      "bank_amount": "1487.24"
+    },
+    {
+      "txn_id": "txn_0174",
+      "platform_amount": "1107.973",
+      "bank_amount": "1107.97"
+    },
+    {
+      "txn_id": "txn_0175",
+      "platform_amount": "1001.353",
+      "bank_amount": "1001.35"
+    },
+    {
+      "txn_id": "txn_0176",
+      "platform_amount": "407.373",
+      "bank_amount": "407.37"
+    },
+    {
+      "txn_id": "txn_0177",
+      "platform_amount": "629.013",
+      "bank_amount": "629.01"
+    },
+    {
+      "txn_id": "txn_0178",
+      "platform_amount": "121.703",
+      "bank_amount": "121.70"
+    },
+    {
+      "txn_id": "txn_0179",
+      "platform_amount": "1316.963",
+      "bank_amount": "1316.96"
+    },
+    {
+      "txn_id": "txn_0180",
+      "platform_amount": "35.733",
+      "bank_amount": "35.73"
+    },
+    {
+      "txn_id": "txn_0182",
+      "platform_amount": "988.143",
+      "bank_amount": "988.14"
+    },
+    {
+      "txn_id": "txn_0183",
+      "platform_amount": "161.733",
+      "bank_amount": "161.73"
+    },
+    {
+      "txn_id": "txn_0184",
+      "platform_amount": "1162.383",
+      "bank_amount": "1162.38"
+    },
+    {
+      "txn_id": "txn_0185",
+      "platform_amount": "1152.973",
+      "bank_amount": "1152.97"
+    },
+    {
+      "txn_id": "txn_0186",
+      "platform_amount": "1276.283",
+      "bank_amount": "1276.28"
+    },
+    {
+      "txn_id": "txn_0187",
+      "platform_amount": "916.383",
+      "bank_amount": "916.38"
+    },
+    {
+      "txn_id": "txn_0188",
+      "platform_amount": "1281.073",
+      "bank_amount": "1281.07"
+    },
+    {
+      "txn_id": "txn_0189",
+      "platform_amount": "442.333",
+      "bank_amount": "442.33"
+    },
+    {
+      "txn_id": "txn_0190",
+      "platform_amount": "365.703",
+      "bank_amount": "365.70"
+    },
+    {
+      "txn_id": "txn_0191",
+      "platform_amount": "846.573",
+      "bank_amount": "846.57"
+    },
+    {
+      "txn_id": "txn_0192",
+      "platform_amount": "484.363",
+      "bank_amount": "484.36"
+    },
+    {
+      "txn_id": "txn_0194",
+      "platform_amount": "1290.753",
+      "bank_amount": "1290.75"
+    },
+    {
+      "txn_id": "txn_0195",
+      "platform_amount": "1125.283",
+      "bank_amount": "1125.28"
+    },
+    {
+      "txn_id": "txn_0196",
+      "platform_amount": "301.093",
+      "bank_amount": "301.09"
+    },
+    {
+      "txn_id": "txn_0197",
+      "platform_amount": "639.763",
+      "bank_amount": "639.76"
+    },
+    {
+      "txn_id": "txn_0198",
+      "platform_amount": "969.883",
+      "bank_amount": "969.88"
+    },
+    {
+      "txn_id": "txn_0199",
+      "platform_amount": "567.643",
+      "bank_amount": "567.64"
+    },
+    {
+      "txn_id": "txn_0200",
+      "platform_amount": "1234.053",
+      "bank_amount": "1234.05"
+    },
+    {
+      "txn_id": "txn_0201",
+      "platform_amount": "1246.323",
+      "bank_amount": "1246.32"
+    },
+    {
+      "txn_id": "txn_0202",
+      "platform_amount": "1390.733",
+      "bank_amount": "1390.73"
+    },
+    {
+      "txn_id": "txn_0203",
+      "platform_amount": "561.733",
+      "bank_amount": "561.73"
+    },
+    {
+      "txn_id": "txn_0204",
+      "platform_amount": "1072.833",
+      "bank_amount": "1072.83"
+    },
+    {
+      "txn_id": "txn_0206",
+      "platform_amount": "722.523",
+      "bank_amount": "722.52"
+    },
+    {
+      "txn_id": "txn_0207",
+      "platform_amount": "224.203",
+      "bank_amount": "224.20"
+    },
+    {
+      "txn_id": "txn_0208",
+      "platform_amount": "1024.363",
+      "bank_amount": "1024.36"
+    },
+    {
+      "txn_id": "txn_0209",
+      "platform_amount": "941.113",
+      "bank_amount": "941.11"
+    },
+    {
+      "txn_id": "txn_0210",
+      "platform_amount": "247.983",
+      "bank_amount": "247.98"
+    },
+    {
+      "txn_id": "txn_0211",
+      "platform_amount": "12.843",
+      "bank_amount": "12.84"
+    },
+    {
+      "txn_id": "txn_0212",
+      "platform_amount": "394.663",
+      "bank_amount": "394.66"
+    },
+    {
+      "txn_id": "txn_0213",
+      "platform_amount": "1030.803",
+      "bank_amount": "1030.80"
+    },
+    {
+      "txn_id": "txn_0214",
+      "platform_amount": "556.703",
+      "bank_amount": "556.70"
+    },
+    {
+      "txn_id": "txn_0215",
+      "platform_amount": "1440.623",
+      "bank_amount": "1440.62"
+    },
+    {
+      "txn_id": "txn_0216",
+      "platform_amount": "1256.303",
+      "bank_amount": "1256.30"
+    },
+    {
+      "txn_id": "txn_0218",
+      "platform_amount": "242.593",
+      "bank_amount": "242.59"
+    },
+    {
+      "txn_id": "txn_0219",
+      "platform_amount": "325.633",
+      "bank_amount": "325.63"
+    }
+  ],
+  "duplicate": {
+    "platform": [
+      {
+        "txn_id": "dup_platform_001",
+        "amount": "42.500"
+      }
+    ],
+    "bank": [
+      {
+        "txn_ref": "dup_bank_001",
+        "amount": "42.50"
+      }
+    ]
+  },
+  "orphan_refund": [
+    {
+      "txn_id": "orphan_refund_001",
+      "amount": "-17.750",
+      "original_txn_id": "missing_original_001"
+    }
+  ]
+}
